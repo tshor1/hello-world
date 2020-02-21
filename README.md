@@ -1,2 +1,2 @@
 # hello-world
-Your very first go
+looking for alternatives
